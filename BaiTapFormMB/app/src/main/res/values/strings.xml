@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BaiTapFormMB</string>
+    <string name="gender_prompt">Choose your gender</string>
+    <string-array name="gender_array">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </string-array>
+
+    <string name="TD_prompt">Choose your gender</string>
+    <string-array name="TD_array">
+        <item>CAO ĐẲNG</item>
+        <item>ĐẠI HỌC</item>
+        <item>Other</item>
+    </string-array>
+</resources>
